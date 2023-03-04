@@ -26,7 +26,7 @@ TODO
 
 I followed the tutorials from SpaceInvader One 
 
-1. (https://www.youtube.com/watch?v=miYUGWq6l24&t=12s)[Part 1]
+1. [Part1](https://www.youtube.com/watch?v=miYUGWq6l24&t=12s)
 2. (https://www.youtube.com/watch?v=A2dkrFKPOyw&t=636s)[Part 2]
 
 ## GPU Pass through
