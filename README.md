@@ -22,12 +22,17 @@ TODO
 ```
 
 # Windows Vm
+
+After complete setup this VM is able to play Deathloop on Ultra settings no problem
+
 ## Installing windows
 
 I followed the tutorials from SpaceInvader One 
 
 1. [Part1](https://www.youtube.com/watch?v=miYUGWq6l24&t=12s)
 2. [Part 2](https://www.youtube.com/watch?v=A2dkrFKPOyw&t=636s)
+
+Since we're looking to do gaming we want to use gpu pass through to achieve near baremetal gaming performance.
 
 ## GPU Pass through
 
