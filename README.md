@@ -27,7 +27,7 @@ TODO
 I followed the tutorials from SpaceInvader One 
 
 1. [Part1](https://www.youtube.com/watch?v=miYUGWq6l24&t=12s)
-2. (https://www.youtube.com/watch?v=A2dkrFKPOyw&t=636s)[Part 2]
+2. [Part 2](https://www.youtube.com/watch?v=A2dkrFKPOyw&t=636s)
 
 ## GPU Pass through
 
@@ -48,5 +48,4 @@ When setting up the windows VM
 ## Bluetooth
 
 I had some trouble getting bluetooth passthrough working. I resolved based on this method
-- (https://www.reddit.com/r/VFIO/comments/wbsqy1/how_to_fix_onboard_intel_bluetooth_error_code_10/)[Source 1]
-- ()[]
+- [Source 1](https://www.reddit.com/r/VFIO/comments/wbsqy1/how_to_fix_onboard_intel_bluetooth_error_code_10/)
